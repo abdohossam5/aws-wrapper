@@ -1,0 +1,20 @@
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = {
+  version: "0.0.1",
+  mysql: {
+    connectionLimit: 10,
+    host: 'localhost',
+    user: '',
+    password: '',
+    database: 'test',
+    port: 3306
+  },
+  AWS_ACCESS_KEY_ID: '',
+  AWS_SECRET_ACCESS_KEY: '',
+  AWS_REGION: 'ap-northeast-1'
+};
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbmZpZy5qcyJdLCJuYW1lcyI6WyJ2ZXJzaW9uIiwibXlzcWwiLCJjb25uZWN0aW9uTGltaXQiLCJob3N0IiwidXNlciIsInBhc3N3b3JkIiwiZGF0YWJhc2UiLCJwb3J0IiwiQVdTX0FDQ0VTU19LRVlfSUQiLCJBV1NfU0VDUkVUX0FDQ0VTU19LRVkiLCJBV1NfUkVHSU9OIl0sIm1hcHBpbmdzIjoiOzs7OztrQkFBZTtBQUNiQSxXQUFTLE9BREk7QUFFYkMsU0FBTztBQUNMQyxxQkFBaUIsRUFEWjtBQUVMQyxVQUFNLFdBRkQ7QUFHTEMsVUFBTSxFQUhEO0FBSUxDLGNBQVUsRUFKTDtBQUtMQyxjQUFXLE1BTE47QUFNTEMsVUFBTTtBQU5ELEdBRk07QUFVYkMscUJBQW1CLEVBVk47QUFXYkMseUJBQXVCLEVBWFY7QUFZYkMsY0FBWTtBQVpDLEMiLCJmaWxlIjoiY29uZmlnLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQge1xuICB2ZXJzaW9uOiBcIjAuMC4xXCIsXG4gIG15c3FsOiB7XG4gICAgY29ubmVjdGlvbkxpbWl0OiAxMCxcbiAgICBob3N0OiAnbG9jYWxob3N0JyxcbiAgICB1c2VyOiAnJyxcbiAgICBwYXNzd29yZDogJycsXG4gICAgZGF0YWJhc2UgOiAndGVzdCcsXG4gICAgcG9ydDogMzMwNlxuICB9LFxuICBBV1NfQUNDRVNTX0tFWV9JRDogJycsXG4gIEFXU19TRUNSRVRfQUNDRVNTX0tFWTogJycsXG4gIEFXU19SRUdJT046ICdhcC1ub3J0aGVhc3QtMSdcbn0iXX0=

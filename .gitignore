@@ -1,0 +1,8 @@
+node_modules/
+dist/**/*_scsslint_tmp*
+.idea/
+.DS_Store
+.vscode/settings.json
+.history/
+*.rdb
+.vscode/
